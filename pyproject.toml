@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cleanco"
+version = "0.1.0"
+description = "Company Name Processor written in Python"
+authors = []
+license = "LICENSE.txt"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
